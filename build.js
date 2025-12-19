@@ -1,4 +1,4 @@
-import { build } from "vite"
+import { build } from "@voidzero-dev/vite-plus"
 import { unlinkSync } from "node:fs"
 
 const fileName = "style"
